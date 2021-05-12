@@ -1,0 +1,6 @@
+ 45:28.1         0.017           UDP             EXT_SERVER           42123      10014_199            123        1                    76         1          ......     0          suspicious 
+ 03:03.4         0.015           UDP             EXT_SERVER           47847      10014_199            123        1                    76         1          ......     0          suspicious 
+ 37:11.6         0.016           UDP             EXT_SERVER           53871      10014_199            123        1                    76         1          ......     0          suspicious 
+ 11:19.9         0.016           UDP             EXT_SERVER           55004      10014_199            123        1                    76         1          ......     0          suspicious 
+ 21:40.2         0.001           UDP             EXT_SERVER           56647      10116_230            53         1                    68         1          ......     0          suspicious 
+ 21:40.2         0               UDP             EXT_SERVER           55530      10116_230            53         1                    68         1          ......     0          suspicious 

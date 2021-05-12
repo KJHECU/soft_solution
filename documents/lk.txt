@@ -1,0 +1,582 @@
+ 29:54.3         0.001           TCP             EXT_SERVER           5358       10127_82             41738      1                    40         1          .A.R..     0          suspicious 
+ 29:54.3         0.001           TCP             10127_82             41738      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 29:59.2         0.033           TCP             EXT_SERVER           3419       10055_218            58953      1                    40         1          .A.R..     0          suspicious 
+ 29:59.2         0.033           TCP             10055_218            58953      EXT_SERVER           3419       2                    92         1          ...RS.     0          suspicious 
+ 29:01.8         58.256          TCP             10004_35             54889      EXT_SERVER           22         7                    420        1          .APRSF     0          suspicious 
+ 28:19.0         122.15          TCP             10004_35             61634      EXT_SERVER           22         7                    420        1          .APRS.     0          suspicious 
+ 26:09.3         120.919         TCP             10004_35             11926      EXT_SERVER           22         7                    387        1          .AP.SF     0          suspicious 
+ 26:09.3         120.919         TCP             EXT_SERVER           22         10004_35             11926      7                    2389       1          .AP.SF     0          suspicious 
+ 31:15.2         8.661           TCP             10004_35             53298      EXT_SERVER           22         9                    479        1          .APRSF     0          suspicious 
+ 31:15.2         8.661           TCP             EXT_SERVER           22         10004_35             53298      8                    2449       1          .AP.S.     0          suspicious 
+ 32:01.0         0               TCP             EXT_SERVER           27167      10128_181            26107      1                    40         1          ...R..     0          suspicious 
+ 32:01.0         0               TCP             10128_181            26107      EXT_SERVER           27167      1                    46         1          .A..S.     0          suspicious 
+ 31:58.6         3.441           TCP             10004_35             52189      EXT_SERVER           22         2                    106        1          ...RS.     0          suspicious 
+ 31:58.6         3.441           TCP             EXT_SERVER           22         10004_35             52189      3                    180        1          .A..S.     0          suspicious 
+ 30:28.3         121.863         TCP             10004_35             51447      EXT_SERVER           22         5                    277        1          .APRSF     0          suspicious 
+ 30:28.3         121.863         TCP             EXT_SERVER           22         10004_35             51447      7                    1421       1          .AP.SF     0          suspicious 
+ 32:38.8         5.419           TCP             10004_35             51400      EXT_SERVER           22         4                    226        1          ...RS.     0          suspicious 
+ 32:38.8         5.419           TCP             EXT_SERVER           22         10004_35             51400      5                    300        1          .A..S.     0          suspicious 
+ 32:43.8         7.395           TCP             10004_35             41533      EXT_SERVER           22         7                    360        1          .A.RSF     0          suspicious 
+ 32:43.8         7.395           TCP             EXT_SERVER           22         10004_35             41533      5                    341        1          .AP.S.     0          suspicious 
+ 33:22.7         6.39            TCP             10004_35             53103      EXT_SERVER           22         5                    274        1          .A.RS.     0          suspicious 
+ 33:22.7         6.39            TCP             EXT_SERVER           22         10004_35             53103      5                    391        1          .AP.S.     0          suspicious 
+ 29:46.3         58.729          TCP             10004_35             62374      EXT_SERVER           22         6                    374        1          .AP.SF     0          suspicious 
+ 34:05.5         7.728           TCP             10004_35             40092      EXT_SERVER           22         8                    427        1          .APRSF     0          suspicious 
+ 34:05.5         7.728           TCP             EXT_SERVER           22         10004_35             40092      9                    4445       1          .AP.S.     0          suspicious 
+ 34:52.6         0               TCP             10129_133            16568      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 34:52.6         0               TCP             EXT_SERVER           23         10129_133            16568      1                    40         1          .A.R..     0          suspicious 
+ 34:49.2         9.013           TCP             10004_35             53363      EXT_SERVER           22         8                    705        1          .APRSF     0          suspicious 
+ 34:49.2         9.013           TCP             EXT_SERVER           22         10004_35             53363      8                    2494       1          .AP.S.     0          suspicious 
+ 35:19.0         0               TCP             10130_179            45268      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 35:19.0         0               TCP             EXT_SERVER           23         10130_179            45268      1                    40         1          .A.R..     0          suspicious 
+ 35:35.6         0               TCP             10131_165            14179      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 35:35.6         0               TCP             EXT_SERVER           23         10131_165            14179      1                    40         1          .A.R..     0          suspicious 
+ 35:33.1         10.271          TCP             10004_35             58938      EXT_SERVER           22         8                    435        1          .APRSF     0          suspicious 
+ 35:33.1         10.271          TCP             EXT_SERVER           22         10004_35             58938      9                    1541       1          .AP.S.     0          suspicious 
+ 32:52.8         0               ICMP            10132_69             0          EXT_SERVER           8          1                    46         1          ......     0          suspicious 
+ 32:52.8         0               ICMP            EXT_SERVER           0          10132_69             0          1                    32         1          ......     0          suspicious 
+ 36:42.2         0               TCP             10133_58             28300      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 36:42.2         0               TCP             EXT_SERVER           23         10133_58             28300      1                    40         1          .A.R..     0          suspicious 
+ 32:00.6         121.813         TCP             10004_35             43276      EXT_SERVER           22         5                    268        1          .A..SF     0          suspicious 
+ 32:00.6         121.813         TCP             EXT_SERVER           22         10004_35             43276      5                    345        1          .AP.SF     0          suspicious 
+ 37:00.7         6.927           TCP             10004_35             15129      EXT_SERVER           22         7                    383        1          .APRSF     0          suspicious 
+ 37:00.7         6.927           TCP             EXT_SERVER           22         10004_35             15129      8                    513        1          .AP.S.     0          suspicious 
+ 38:51.2         0               TCP             10134_18             31231      EXT_SERVER           4064       1                    46         1          ....S.     0          suspicious 
+ 38:51.2         0               TCP             EXT_SERVER           4064       10134_18             31231      1                    40         1          .A.R..     0          suspicious 
+ 38:29.5         23.611          TCP             10004_35             15773      EXT_SERVER           22         7                    1029       1          .APRSF     0          suspicious 
+ 38:29.5         23.611          TCP             EXT_SERVER           22         10004_35             15773      8                    1481       1          .AP.SF     0          suspicious 
+ 37:45.1         87.791          TCP             10004_35             11264      EXT_SERVER           22         7                    1037       1          .APRSF     0          suspicious 
+ 40:37.3         0               TCP             10135_232            35037      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 40:37.3         0               TCP             EXT_SERVER           5358       10135_232            35037      1                    40         1          .A.R..     0          suspicious 
+ 40:42.1         0               TCP             10136_37             20342      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 40:42.1         0               TCP             EXT_SERVER           5358       10136_37             20342      1                    40         1          .A.R..     0          suspicious 
+ 40:53.8         0               TCP             10137_52             23848      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 40:53.8         0               TCP             EXT_SERVER           5358       10137_52             23848      1                    40         1          .A.R..     0          suspicious 
+ 40:40.9         14.112          TCP             10004_35             46656      EXT_SERVER           22         7                    420        1          .APRSF     0          suspicious 
+ 41:00.0         5.826           TCP             10006_27             26792      EXT_SERVER           22         7                    1029       1          .APRSF     0          suspicious 
+ 41:00.0         5.826           TCP             EXT_SERVER           22         10006_27             26792      9                    4421       1          .AP.SF     0          suspicious 
+ 39:11.9         120.444         TCP             10004_35             12678      EXT_SERVER           22         4                    231        1          .APRS.     0          suspicious 
+ 41:14.8         0               TCP             10138_87             27913      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 41:14.8         0               TCP             EXT_SERVER           5358       10138_87             27913      1                    40         1          .A.R..     0          suspicious 
+ 42:17.3         5.92            TCP             10004_35             47180      EXT_SERVER           22         6                    353        1          .APRSF     0          suspicious 
+ 42:17.3         5.92            TCP             EXT_SERVER           22         10004_35             47180      6                    1378       1          .AP.SF     0          suspicious 
+ 42:27.8         0               TCP             10139_235            37773      EXT_SERVER           5632       1                    46         1          ....S.     0          suspicious 
+ 42:27.8         0               TCP             EXT_SERVER           5632       10139_235            37773      1                    40         1          .A.R..     0          suspicious 
+ 41:30.3         90.623          TCP             10004_35             49154      EXT_SERVER           22         7                    1029       1          .APRS.     0          suspicious 
+ 40:34.0         0               UDP             10025_123            5074       EXT_SERVER           5060       1                    437        1          ......     0          suspicious 
+ 40:34.0         0               ICMP            EXT_SERVER           0          10025_123            3.3        1                    465        1          ......     0          suspicious 
+ 43:02.7         41.435          TCP             10004_35             62073      EXT_SERVER           22         6                    329        1          .APRSF     0          suspicious 
+ 43:54.6         0               TCP             10140_147            28837      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 43:54.6         0               TCP             EXT_SERVER           23         10140_147            28837      1                    40         1          .A.R..     0          suspicious 
+ 39:54.5         83.321          TCP             10004_35             61354      EXT_SERVER           22         6                    983        1          .AP.SF     0          suspicious 
+ 43:46.4         41.015          TCP             10004_35             63132      EXT_SERVER           22         5                    925        1          .APRSF     0          suspicious 
+ 43:46.4         41.015          TCP             EXT_SERVER           22         10004_35             63132      5                    1285       1          .AP.SF     0          suspicious 
+ 44:30.4         7.143           TCP             10004_35             63885      EXT_SERVER           22         9                    1695       1          .APRSF     0          suspicious 
+ 45:13.4         11.068          TCP             10004_35             57106      EXT_SERVER           22         8                    453        1          .APRSF     0          suspicious 
+ 45:49.3         0               TCP             10141_196            42340      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 45:49.3         0               TCP             EXT_SERVER           5358       10141_196            42340      1                    40         1          .A.R..     0          suspicious 
+ 46:41.8         6.918           TCP             10004_35             61462      EXT_SERVER           22         5                    301        1          .APRS.     0          suspicious 
+ 46:41.8         6.918           TCP             EXT_SERVER           22         10004_35             61462      7                    2414       1          .AP.SF     0          suspicious 
+ 45:28.1         0.017           UDP             10014_199            123        EXT_SERVER           42123      1                    76         1          ......     0          suspicious 
+ 45:28.1         0.017           UDP             EXT_SERVER           42123      10014_199            123        1                    76         1          ......     0          suspicious 
+ 48:41.4         6.913           TCP             10004_35             42460      EXT_SERVER           22         6                    368        1          .APRSF     0          suspicious 
+ 48:41.4         6.913           TCP             EXT_SERVER           22         10004_35             42460      8                    3487       1          .AP.SF     0          suspicious 
+ 49:50.3         0               TCP             10142_247            12172      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 49:50.3         0               TCP             EXT_SERVER           23         10142_247            12172      1                    40         1          .A.R..     0          suspicious 
+ 50:18.5         9.403           TCP             10004_35             53573      EXT_SERVER           22         3                    166        1          ...RS.     0          suspicious 
+ 50:18.5         9.403           TCP             EXT_SERVER           22         10004_35             53573      5                    300        1          .A..S.     0          suspicious 
+ 50:34.9         0               TCP             EXT_SERVER           5358       10143_44             27120      1                    40         1          .A.R..     0          suspicious 
+ 50:34.9         0               TCP             10143_44             27120      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 47:48.1         0               UDP             10144_34             30664      EXT_SERVER           53         1                    70         1          ......     0          suspicious 
+ 47:48.1         0               ICMP            EXT_SERVER           0          10144_34             3.3        1                    98         1          ......     0          suspicious 
+ 50:52.9         0               TCP             EXT_SERVER           23         10145_44             62214      1                    40         1          .A.R..     0          suspicious 
+ 50:52.9         0               TCP             10145_44             62214      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 51:04.9         0.001           TCP             10146_28             40209      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 51:04.9         0.001           TCP             EXT_SERVER           5358       10146_28             40209      1                    40         1          .A.R..     0          suspicious 
+ 51:33.9         0               TCP             EXT_SERVER           23         10147_68             56447      1                    40         1          .A.R..     0          suspicious 
+ 51:33.9         0               TCP             10147_68             56447      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 51:48.4         7.382           TCP             10004_35             30230      EXT_SERVER           22         8                    427        1          .APRSF     0          suspicious 
+ 50:23.5         98.581          TCP             10004_35             43768      EXT_SERVER           22         8                    1625       1          .APRSF     0          suspicious 
+ 47:25.9         120.453         TCP             10004_35             10492      EXT_SERVER           22         5                    283        1          .AP.SF     0          suspicious 
+ 52:40.9         0               TCP             10148_244            12505      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 52:40.9         0               TCP             EXT_SERVER           23         10148_244            12505      1                    40         1          .A.R..     0          suspicious 
+ 52:45.4         0               TCP             EXT_SERVER           23         10149_164            54460      1                    40         1          .A.R..     0          suspicious 
+ 52:45.4         0               TCP             10149_164            54460      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 52:45.9         0               TCP             10150_141            65202      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 52:45.9         0               TCP             EXT_SERVER           23         10150_141            65202      1                    40         1          .A.R..     0          suspicious 
+ 53:04.6         122.433         TCP             10004_35             41827      EXT_SERVER           22         6                    991        1          .AP.S.     0          suspicious 
+ 53:27.4         7.51            TCP             10004_35             59136      EXT_SERVER           22         9                    751        1          .APRSF     0          suspicious 
+ 53:27.4         7.51            TCP             EXT_SERVER           22         10004_35             59136      8                    1518       1          .AP.S.     0          suspicious 
+ 54:15.9         22.199          TCP             10004_35             12307      EXT_SERVER           22         5                    925        1          .APRSF     0          suspicious 
+ 54:15.9         22.199          TCP             EXT_SERVER           22         10004_35             12307      5                    1285       1          .AP.SF     0          suspicious 
+ 52:37.9         123.886         TCP             10004_35             40230      EXT_SERVER           22         8                    713        1          .APRSF     0          suspicious 
+ 54:42.6         0.001           TCP             10151_86             43878      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 54:42.6         0.001           TCP             EXT_SERVER           23         10151_86             43878      1                    40         1          .A.R..     0          suspicious 
+ 55:01.7         5.898           TCP             10004_35             36866      EXT_SERVER           22         7                    375        1          .APRSF     0          suspicious 
+ 55:01.7         5.898           TCP             EXT_SERVER           22         10004_35             36866      7                    2430       1          .AP.S.     0          suspicious 
+ 55:45.8         6.377           TCP             10004_35             44699      EXT_SERVER           22         5                    262        1          .A.RSF     0          suspicious 
+ 55:45.8         6.377           TCP             EXT_SERVER           22         10004_35             44699      3                    217        1          .AP.S.     0          suspicious 
+ 51:07.7         121.376         TCP             10004_35             27461      EXT_SERVER           22         4                    231        1          .AP.SF     0          suspicious 
+ 53:20.5         0               UDP             10152_94             24434      EXT_SERVER           500        1                    92         1          ......     0          suspicious 
+ 53:20.5         0               ICMP            EXT_SERVER           0          10152_94             3.3        1                    120        1          ......     0          suspicious 
+ 56:38.4         0               TCP             10153_4              61798      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 56:38.4         0               TCP             EXT_SERVER           23         10153_4              61798      1                    40         1          .A.R..     0          suspicious 
+ 56:44.9         0               TCP             10154_196            34328      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 56:44.9         0               TCP             EXT_SERVER           23         10154_196            34328      1                    40         1          .A.R..     0          suspicious 
+ 56:50.2         0               TCP             10155_183            5502       EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 56:50.2         0               TCP             EXT_SERVER           23         10155_183            5502       1                    40         1          .A.R..     0          suspicious 
+ 56:32.0         45.166          TCP             10004_35             16257      EXT_SERVER           22         5                    925        1          .APRSF     0          suspicious 
+ 56:32.0         45.166          TCP             EXT_SERVER           22         10004_35             16257      5                    1285       1          .AP.SF     0          suspicious 
+ 55:00.6         0               ICMP            10156_89             0          EXT_SERVER           8          1                    46         1          ......     0          suspicious 
+ 55:00.6         0               ICMP            EXT_SERVER           0          10156_89             0          1                    36         1          ......     0          suspicious 
+ 58:08.7         0.001           TCP             10157_106            64784      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 58:08.7         0.001           TCP             EXT_SERVER           5358       10157_106            64784      1                    40         1          .A.R..     0          suspicious 
+ 58:05.8         6.186           TCP             10004_35             40358      EXT_SERVER           22         7                    1029       1          .APRSF     0          suspicious 
+ 58:05.8         6.186           TCP             EXT_SERVER           22         10004_35             40358      4                    1233       1          .AP.S.     0          suspicious 
+ 00:10.7         0               TCP             10000_214            8830       EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 00:10.7         0               TCP             EXT_SERVER           23         10000_214            8830       1                    40         1          .A.R..     0          suspicious 
+ 00:27.4         0               TCP             10002_148            18816      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 00:27.4         0               TCP             EXT_SERVER           23         10002_148            18816      1                    40         1          .A.R..     0          suspicious 
+ 00:56.8         0               TCP             EXT_SERVER           23         10003_214            42182      1                    40         1          .A.R..     0          suspicious 
+ 00:56.8         0               TCP             10003_214            42182      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 00:02.3         62.046          TCP             10004_35             57382      EXT_SERVER           22         7                    420        1          .APRSF     0          suspicious 
+ 01:28.4         0.001           TCP             10005_82             24989      EXT_SERVER           7547       1                    46         1          ....S.     0          suspicious 
+ 01:28.4         0.001           TCP             EXT_SERVER           7547       10005_82             24989      1                    40         1          .A.R..     0          suspicious 
+ 01:30.2         8.33            TCP             10004_35             52214      EXT_SERVER           22         6                    329        1          .APRSF     0          suspicious 
+ 01:30.2         8.33            TCP             EXT_SERVER           22         10004_35             52214      7                    2430       1          .AP.S.     0          suspicious 
+ 00:46.7         120.94          TCP             10004_35             49995      EXT_SERVER           22         7                    381        1          .APRSF     0          suspicious 
+ 02:14.1         40.647          TCP             10004_35             53003      EXT_SERVER           22         7                    1029       1          .APRSF     0          suspicious 
+ 02:55.0         0               TCP             10007_231            28877      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 02:55.0         0               TCP             EXT_SERVER           23         10007_231            28877      1                    40         1          .A.R..     0          suspicious 
+ 02:59.0         6.452           TCP             10004_35             62380      EXT_SERVER           22         6                    329        1          .APRSF     0          suspicious 
+ 02:59.0         6.452           TCP             EXT_SERVER           22         10004_35             62380      8                    4393       1          .AP.S.     0          suspicious 
+ 04:07.6         0               TCP             10009_161            26905      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 04:07.6         0               TCP             EXT_SERVER           23         10009_161            26905      1                    40         1          .A.R..     0          suspicious 
+ 04:15.6         0               TCP             10010_80             36693      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 04:15.6         0               TCP             EXT_SERVER           23         10010_80             36693      1                    40         1          .A.R..     0          suspicious 
+ 04:20.5         0               TCP             10011_88             29538      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 04:20.5         0               TCP             EXT_SERVER           5358       10011_88             29538      1                    40         1          .A.R..     0          suspicious 
+ 05:11.7         10.619          TCP             10004_35             13988      EXT_SERVER           22         6                    977        1          .APRSF     0          suspicious 
+ 05:11.7         10.619          TCP             EXT_SERVER           22         10004_35             13988      8                    1469       1          .AP.SF     0          suspicious 
+ 05:22.8         0               TCP             EXT_SERVER           23         10013_199            1811       1                    40         1          .A.R..     0          suspicious 
+ 05:22.8         0               TCP             10013_199            1811       EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 04:28.1         89.131          TCP             10004_35             15987      EXT_SERVER           22         8                    717        1          .APRSF     0          suspicious 
+ 04:28.1         89.131          TCP             EXT_SERVER           22         10004_35             15987      9                    4445       1          .AP.S.     0          suspicious 
+ 03:03.4         0.015           UDP             10014_199            123        EXT_SERVER           47847      1                    76         1          ......     0          suspicious 
+ 03:03.4         0.015           UDP             EXT_SERVER           47847      10014_199            123        1                    76         1          ......     0          suspicious 
+ 06:14.7         2.874           TCP             10015_126            51434      EXT_SERVER           445        2                    104        1          ....S.     0          suspicious 
+ 06:14.7         2.874           TCP             EXT_SERVER           445        10015_126            51434      2                    80         1          .A.R..     0          suspicious 
+ 06:39.6         5.468           TCP             10004_35             22530      EXT_SERVER           22         4                    255        1          .APRSF     0          suspicious 
+ 06:39.6         5.468           TCP             EXT_SERVER           22         10004_35             22530      5                    2302       1          .AP.S.     0          suspicious 
+ 07:10.9         0               TCP             10017_11             12419      EXT_SERVER           7547       1                    46         1          ....S.     0          suspicious 
+ 07:10.9         0               TCP             EXT_SERVER           7547       10017_11             12419      1                    40         1          .A.R..     0          suspicious 
+ 04:57.5         0               UDP             10018_14             56475      EXT_SERVER           19         1                    46         1          ......     0          suspicious 
+ 04:57.5         0               ICMP            EXT_SERVER           0          10018_14             3.3        1                    57         1          ......     0          suspicious 
+ 05:57.4         120.932         TCP             10004_35             23967      EXT_SERVER           22         7                    381        1          .APRSF     0          suspicious 
+ 03:43.0         76.367          TCP             10004_35             63339      EXT_SERVER           22         7                    1035       1          .AP.SF     0          suspicious 
+ 07:23.3         96.451          TCP             10004_35             20505      EXT_SERVER           22         7                    389        1          .APRSF     0          suspicious 
+ 08:53.3         10.573          TCP             10004_35             37053      EXT_SERVER           22         8                    1075       1          .APRSF     0          suspicious 
+ 08:53.3         10.573          TCP             EXT_SERVER           22         10004_35             37053      9                    3469       1          .AP.S.     0          suspicious 
+ 09:27.8         0               TCP             10019_244            34855      EXT_SERVER           8998       1                    46         1          ....S.     0          suspicious 
+ 09:27.8         0               TCP             EXT_SERVER           8998       10019_244            34855      1                    40         1          .A.R..     0          suspicious 
+ 09:39.4         0               TCP             10020_81             5155       EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 09:39.4         0               TCP             EXT_SERVER           23         10020_81             5155       1                    40         1          .A.R..     0          suspicious 
+ 06:53.1         0               UDP             10021_235            5119       EXT_SERVER           5060       1                    441        1          ......     0          suspicious 
+ 06:53.1         0               ICMP            EXT_SERVER           0          10021_235            3.3        1                    469        1          ......     0          suspicious 
+ 10:49.6         0               TCP             10023_140            33073      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 10:49.6         0               TCP             EXT_SERVER           23         10023_140            33073      1                    40         1          .A.R..     0          suspicious 
+ 11:09.0         12.299          TCP             10004_35             10213      EXT_SERVER           22         5                    277        1          .APRS.     0          suspicious 
+ 11:09.0         12.299          TCP             EXT_SERVER           22         10004_35             10213      8                    5345       1          .AP.S.     0          suspicious 
+ 11:34.9         0               TCP             10024_141            24267      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 11:34.9         0               TCP             EXT_SERVER           23         10024_141            24267      1                    40         1          .A.R..     0          suspicious 
+ 08:36.2         0               UDP             10025_123            5099       EXT_SERVER           5060       1                    434        1          ......     0          suspicious 
+ 08:36.2         0               ICMP            EXT_SERVER           0          10025_123            3.3        1                    462        1          ......     0          suspicious 
+ 08:09.3         94.89           TCP             10004_35             38184      EXT_SERVER           22         4                    255        1          .AP.SF     0          suspicious 
+ 12:41.6         11.981          TCP             10004_35             32433      EXT_SERVER           22         6                    977        1          .APRSF     0          suspicious 
+ 12:41.6         11.981          TCP             EXT_SERVER           22         10004_35             32433      6                    1349       1          .AP.SF     0          suspicious 
+ 13:21.6         0               TCP             10026_30             41424      EXT_SERVER           1900       1                    46         1          ....S.     0          suspicious 
+ 13:21.6         0               TCP             EXT_SERVER           1900       10026_30             41424      1                    40         1          .A.R..     0          suspicious 
+ 09:38.1         94.893          TCP             10004_35             36064      EXT_SERVER           22         6                    383        1          .AP.SF     0          suspicious 
+ 13:25.2         93.488          TCP             10004_35             32044      EXT_SERVER           22         8                    449        1          .APRSF     0          suspicious 
+ 15:41.2         7.369           TCP             10027_128            53373      EXT_SERVER           22         2                    92         1          ...RS.     0          suspicious 
+ 15:41.2         7.369           TCP             EXT_SERVER           22         10027_128            53373      4                    176        1          .A..S.     0          suspicious 
+ 15:42.8         12.041          TCP             10004_35             18710      EXT_SERVER           22         7                    1677       1          .APRSF     0          suspicious 
+ 11:56.7         94.983          TCP             10004_35             26532      EXT_SERVER           22         7                    459        1          .AP.SF     0          suspicious 
+ 16:25.8         22.142          TCP             10004_35             41449      EXT_SERVER           22         8                    433        1          .APRSF     0          suspicious 
+ 16:25.8         22.142          TCP             EXT_SERVER           22         10004_35             41449      8                    2449       1          .AP.S.     0          suspicious 
+ 17:28.4         0               TCP             10028_233            7533       EXT_SERVER           8080       1                    46         1          ....S.     0          suspicious 
+ 17:28.4         0               TCP             EXT_SERVER           8080       10028_233            7533       1                    40         1          .A.R..     0          suspicious 
+ 17:28.4         0               TCP             10028_233            6258       EXT_SERVER           21         1                    46         1          ....S.     0          suspicious 
+ 17:28.4         0               TCP             EXT_SERVER           21         10028_233            6258       1                    40         1          .A.R..     0          suspicious 
+ 17:58.0         8.431           TCP             10004_35             48536      EXT_SERVER           22         7                    1029       1          .APRSF     0          suspicious 
+ 17:58.0         8.431           TCP             EXT_SERVER           22         10004_35             48536      7                    2373       1          .AP.S.     0          suspicious 
+ 18:20.0         0               TCP             10029_216            20429      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 18:20.0         0               TCP             EXT_SERVER           23         10029_216            20429      1                    40         1          .A.R..     0          suspicious 
+ 17:08.6         120.929         TCP             10004_35             36782      EXT_SERVER           22         5                    277        1          .APRS.     0          suspicious 
+ 19:11.3         0               TCP             10030_225            64439      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 19:11.3         0               TCP             EXT_SERVER           23         10030_225            64439      1                    40         1          .A.R..     0          suspicious 
+ 14:09.2         122.862         TCP             10004_35             40183      EXT_SERVER           22         6                    328        1          .A..SF     0          suspicious 
+ 14:09.2         122.862         TCP             EXT_SERVER           22         10004_35             40183      6                    405        1          .AP.SF     0          suspicious 
+ 19:37.3         8.706           TCP             10004_35             44629      EXT_SERVER           22         9                    1423       1          .APRSF     0          suspicious 
+ 20:11.8         0               TCP             10031_193            44977      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 20:11.8         0               TCP             EXT_SERVER           23         10031_193            44977      1                    40         1          .A.R..     0          suspicious 
+ 20:21.2         5.91            TCP             10004_35             12133      EXT_SERVER           22         6                    353        1          .APRSF     0          suspicious 
+ 20:21.2         5.91            TCP             EXT_SERVER           22         10004_35             12133      7                    2430       1          .AP.S.     0          suspicious 
+ 21:05.1         0               TCP             10033_159            23333      EXT_SERVER           7547       1                    46         1          ....S.     0          suspicious 
+ 21:05.1         0               TCP             EXT_SERVER           7547       10033_159            23333      1                    40         1          .A.R..     0          suspicious 
+ 21:35.6         0.116           TCP             10034_187            28176      EXT_SERVER           22         2                    92         1          ...RS.     0          suspicious 
+ 21:35.6         0.116           TCP             EXT_SERVER           22         10034_187            28176      1                    44         1          .A..S.     0          suspicious 
+ 21:37.5         0               TCP             10035_9              19772      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 21:37.5         0               TCP             EXT_SERVER           23         10035_9              19772      1                    40         1          .A.R..     0          suspicious 
+ 21:45.1         0.3             TCP             EXT_SERVER           22         10036_27             3171       1                    44         1          .A..S.     0          suspicious 
+ 21:45.1         0.3             TCP             10036_27             3171       EXT_SERVER           22         2                    92         1          ...RS.     0          suspicious 
+ 21:57.5         34.984          TCP             10004_35             18927      EXT_SERVER           22         4                    257        1          .APRSF     0          suspicious 
+ 21:57.5         34.984          TCP             EXT_SERVER           22         10004_35             18927      9                    1541       1          .AP.SF     0          suspicious 
+ 23:05.9         0               TCP             10037_181            23930      EXT_SERVER           7547       1                    46         1          ....S.     0          suspicious 
+ 23:05.9         0               TCP             EXT_SERVER           7547       10037_181            23930      1                    40         1          .A.R..     0          suspicious 
+ 22:48.3         19.372          TCP             10004_35             35507      EXT_SERVER           22         9                    524        1          .APRSF     0          suspicious 
+ 24:17.1         9.903           TCP             10004_35             48489      EXT_SERVER           22         8                    1081       1          .APRSF     0          suspicious 
+ 24:17.1         9.903           TCP             EXT_SERVER           22         10004_35             48489      8                    2482       1          .AP.S.     0          suspicious 
+ 24:49.2         0.999           TCP             10038_52             50869      EXT_SERVER           22         5                    238        1          .A.RS.     0          suspicious 
+ 24:49.2         0.999           TCP             EXT_SERVER           22         10038_52             50869      3                    210        1          .AP.S.     0          suspicious 
+ 25:00.1         0               TCP             EXT_SERVER           23         10039_17             10430      1                    40         1          .A.R..     0          suspicious 
+ 25:00.1         0               TCP             10039_17             10430      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 25:32.8         0.001           TCP             EXT_SERVER           23         10040_198            64161      1                    40         1          .A.R..     0          suspicious 
+ 25:32.8         0.001           TCP             10040_198            64161      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 21:10.6         120.466         TCP             10004_35             17029      EXT_SERVER           22         4                    231        1          .AP.SF     0          suspicious 
+ 25:01.4         120.913         TCP             10004_35             50432      EXT_SERVER           22         5                    277        1          .APRSF     0          suspicious 
+ 24:04.2         0               UDP             10041_1              36621      EXT_SERVER           17         1                    46         1          ......     0          suspicious 
+ 24:04.2         0               ICMP            EXT_SERVER           0          10041_1              3.3        1                    56         1          ......     0          suspicious 
+ 27:09.9         6.395           TCP             10004_35             35213      EXT_SERVER           22         7                    1029       1          .APRSF     0          suspicious 
+ 27:09.9         6.395           TCP             EXT_SERVER           22         10004_35             35213      9                    4421       1          .AP.SF     0          suspicious 
+ 27:36.0         0               TCP             10042_81             38706      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 27:36.0         0               TCP             EXT_SERVER           23         10042_81             38706      1                    40         1          .A.R..     0          suspicious 
+ 28:22.7         0               TCP             10043_251            60112      EXT_SERVER           7547       1                    46         1          ....S.     0          suspicious 
+ 28:22.7         0               TCP             EXT_SERVER           7547       10043_251            60112      1                    40         1          .A.R..     0          suspicious 
+ 26:28.3         122.916         TCP             10004_35             43830      EXT_SERVER           22         7                    389        1          .APRSF     0          suspicious 
+ 23:33.2         121.951         TCP             10004_35             59264      EXT_SERVER           22         5                    268        1          .A..SF     0          suspicious 
+ 23:33.2         121.951         TCP             EXT_SERVER           22         10004_35             59264      5                    341        1          .AP.SF     0          suspicious 
+ 28:39.2         6.914           TCP             10004_35             11304      EXT_SERVER           22         8                    480        1          .APRSF     0          suspicious 
+ 28:39.2         6.914           TCP             EXT_SERVER           22         10004_35             11304      9                    2489       1          .AP.SF     0          suspicious 
+ 25:54.7         0               UDP             10044_53             5089       EXT_SERVER           5060       1                    437        1          ......     0          suspicious 
+ 25:54.7         0               ICMP            EXT_SERVER           0          10044_53             3.3        1                    465        1          ......     0          suspicious 
+ 29:39.4         0.393           TCP             10045_44             42664      EXT_SERVER           22         2                    94         1          ...RS.     0          suspicious 
+ 29:39.4         0.393           TCP             EXT_SERVER           22         10045_44             42664      1                    48         1          .A..S.     0          suspicious 
+ 29:22.7         36.322          TCP             10004_35             17145      EXT_SERVER           22         4                    242        1          .APRSF     0          suspicious 
+ 29:22.7         36.322          TCP             EXT_SERVER           22         10004_35             17145      9                    679        1          .AP.S.     0          suspicious 
+ 30:08.3         6.455           TCP             10004_35             38088      EXT_SERVER           22         6                    374        1          .APRSF     0          suspicious 
+ 30:08.3         6.455           TCP             EXT_SERVER           22         10004_35             38088      7                    2385       1          .AP.S.     0          suspicious 
+ 27:16.7         0               UDP             10046_8              49204      EXT_SERVER           1900       1                    122        1          ......     0          suspicious 
+ 27:16.7         0               ICMP            EXT_SERVER           0          10046_8              3.3        1                    150        1          ......     0          suspicious 
+ 25:43.7         95.245          TCP             10004_35             44381      EXT_SERVER           22         6                    983        1          .AP.SF     0          suspicious 
+ 30:18.3         0               TCP             10047_158            62086      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 30:18.3         0               TCP             EXT_SERVER           5358       10047_158            62086      1                    40         1          .A.R..     0          suspicious 
+ 30:28.8         0               TCP             10048_130            12655      EXT_SERVER           7547       1                    46         1          ....S.     0          suspicious 
+ 30:28.8         0               TCP             EXT_SERVER           7547       10048_130            12655      1                    40         1          .A.R..     0          suspicious 
+ 31:01.1         35.676          TCP             10004_35             15509      EXT_SERVER           22         6                    977        1          .APRSF     0          suspicious 
+ 32:39.2         8.311           TCP             10004_35             63437      EXT_SERVER           22         6                    977        1          .APRSF     0          suspicious 
+ 32:39.2         8.311           TCP             EXT_SERVER           22         10004_35             63437      8                    1506       1          .AP.SF     0          suspicious 
+ 27:55.8         120.956         TCP             10004_35             34748      EXT_SERVER           22         5                    268        1          .A..SF     0          suspicious 
+ 27:55.8         120.956         TCP             EXT_SERVER           22         10004_35             34748      4                    281        1          .AP.SF     0          suspicious 
+ 32:54.0         6.892           TCP             10006_27             30243      EXT_SERVER           22         8                    1081       1          .APRSF     0          suspicious 
+ 33:20.2         0               TCP             10049_233            31331      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 33:20.2         0               TCP             EXT_SERVER           5358       10049_233            31331      1                    40         1          .A.R..     0          suspicious 
+ 33:49.9         0               TCP             10050_43             40447      EXT_SERVER           5351       1                    46         1          ....S.     0          suspicious 
+ 33:49.9         0               TCP             EXT_SERVER           5351       10050_43             40447      1                    40         1          .A.R..     0          suspicious 
+ 33:24.4         45.827          TCP             10004_35             11723      EXT_SERVER           22         6                    977        1          .APRSF     0          suspicious 
+ 34:30.0         0.001           TCP             10051_187            14726      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 34:30.0         0.001           TCP             EXT_SERVER           23         10051_187            14726      1                    40         1          .A.R..     0          suspicious 
+ 34:48.6         0               TCP             10052_132            26863      EXT_SERVER           7547       1                    46         1          ....S.     0          suspicious 
+ 34:48.6         0               TCP             EXT_SERVER           7547       10052_132            26863      1                    40         1          .A.R..     0          suspicious 
+ 35:16.4         0.089           TCP             10053_64             48411      EXT_SERVER           3389       2                    92         1          ...RS.     0          suspicious 
+ 35:16.4         0.089           TCP             EXT_SERVER           3389       10053_64             48411      1                    40         1          .A.R..     0          suspicious 
+ 34:05.7         79.963          TCP             10004_35             51965      EXT_SERVER           22         4                    225        1          .APRS.     0          suspicious 
+ 31:48.3         74.183          TCP             10004_35             35407      EXT_SERVER           22         6                    359        1          .AP.SF     0          suspicious 
+ 35:22.0         75.514          TCP             10004_35             26910      EXT_SERVER           22         6                    353        1          .APRSF     0          suspicious 
+ 37:17.3         0               TCP             EXT_SERVER           3431       10055_218            58953      1                    40         1          .A.R..     0          suspicious 
+ 37:17.3         0               TCP             10055_218            58953      EXT_SERVER           3431       1                    46         1          ....S.     0          suspicious 
+ 36:11.7         120.93          TCP             10004_35             50699      EXT_SERVER           22         5                    262        1          .A.RS.     0          suspicious 
+ 36:11.7         120.93          TCP             EXT_SERVER           22         10004_35             50699      4                    257        1          .AP.SF     0          suspicious 
+ 37:45.9         27.21           TCP             10004_35             13681      EXT_SERVER           22         6                    349        1          .APRS.     0          suspicious 
+ 38:30.1         6.377           TCP             10004_35             16806      EXT_SERVER           22         7                    381        1          .APRSF     0          suspicious 
+ 38:30.1         6.377           TCP             EXT_SERVER           22         10004_35             16806      9                    4445       1          .AP.S.     0          suspicious 
+ 36:13.6         0               UDP             10056_250            41027      EXT_SERVER           53413      1                    46         1          ......     0          suspicious 
+ 36:13.6         0               ICMP            EXT_SERVER           0          10056_250            3.3        1                    57         1          ......     0          suspicious 
+ 39:13.0         6.975           TCP             10004_35             62220      EXT_SERVER           22         7                    381        1          .APRS.     0          suspicious 
+ 39:13.0         6.975           TCP             EXT_SERVER           22         10004_35             62220      5                    1285       1          .AP.S.     0          suspicious 
+ 40:03.7         0               TCP             10057_204            64474      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 40:03.7         0               TCP             EXT_SERVER           5358       10057_204            64474      1                    40         1          .A.R..     0          suspicious 
+ 37:11.6         0.016           UDP             10014_199            123        EXT_SERVER           53871      1                    76         1          ......     0          suspicious 
+ 37:11.6         0.016           UDP             EXT_SERVER           53871      10014_199            123        1                    76         1          ......     0          suspicious 
+ 40:23.6         0               TCP             10058_178            57992      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 40:23.6         0               TCP             EXT_SERVER           23         10058_178            57992      1                    40         1          .A.R..     0          suspicious 
+ 40:42.3         9.505           TCP             10004_35             64038      EXT_SERVER           22         6                    353        1          .APRSF     0          suspicious 
+ 40:42.3         9.505           TCP             EXT_SERVER           22         10004_35             64038      8                    3483       1          .AP.SF     0          suspicious 
+ 38:08.2         0               UDP             10059_133            41424      EXT_SERVER           123        1                    76         1          ......     0          suspicious 
+ 38:08.2         0               ICMP            EXT_SERVER           0          10059_133            3.3        1                    104        1          ......     0          suspicious 
+ 41:25.0         30.301          TCP             10004_35             60715      EXT_SERVER           22         6                    977        1          .APRSF     0          suspicious 
+ 36:59.0         125.671         TCP             10004_35             36147      EXT_SERVER           22         8                    459        1          .AP.SF     0          suspicious 
+ 42:16.0         0               TCP             10060_92             16308      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 42:16.0         0               TCP             EXT_SERVER           23         10060_92             16308      1                    40         1          .A.R..     0          suspicious 
+ 42:08.2         32.196          TCP             10004_35             58486      EXT_SERVER           22         7                    1301       1          .APRSF     0          suspicious 
+ 44:05.4         0               TCP             EXT_SERVER           23         10061_213            61969      1                    40         1          .A.R..     0          suspicious 
+ 44:05.4         0               TCP             10061_213            61969      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 39:57.0         85.598          TCP             10004_35             62441      EXT_SERVER           22         6                    983        1          .AP.SF     0          suspicious 
+ 42:54.7         121.796         TCP             10004_35             25456      EXT_SERVER           22         4                    210        1          .A.RS.     0          suspicious 
+ 42:54.7         121.796         TCP             EXT_SERVER           22         10004_35             25456      4                    257        1          .AP.SF     0          suspicious 
+ 45:05.6         0               TCP             10062_187            19782      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 45:05.6         0               TCP             EXT_SERVER           23         10062_187            19782      1                    40         1          .A.R..     0          suspicious 
+ 43:40.2         121.902         TCP             10004_35             47617      EXT_SERVER           22         7                    381        1          .APRSF     0          suspicious 
+ 45:54.5         12.082          TCP             10004_35             50985      EXT_SERVER           22         6                    977        1          .APRSF     0          suspicious 
+ 45:54.5         12.082          TCP             EXT_SERVER           22         10004_35             50985      9                    3510       1          .AP.SF     0          suspicious 
+ 46:16.0         0               TCP             10063_249            6000       EXT_SERVER           1433       1                    46         1          ....S.     0          suspicious 
+ 46:16.0         0               TCP             EXT_SERVER           1433       10063_249            6000       1                    40         1          .A.R..     0          suspicious 
+ 44:23.5         123.246         TCP             10004_35             59332      EXT_SERVER           22         8                    441        1          .APRS.     0          suspicious 
+ 44:23.5         123.246         TCP             EXT_SERVER           22         10004_35             59332      9                    2477       1          .AP.SF     0          suspicious 
+ 46:32.2         0               TCP             10064_214            29748      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 46:32.2         0               TCP             EXT_SERVER           23         10064_214            29748      1                    40         1          .A.R..     0          suspicious 
+ 43:42.4         1.071           TCP             EXT_SERVER           22         10065_254            21771      5                    1285       1          .AP.SF     0          suspicious 
+ 43:42.4         1.071           TCP             10065_254            21771      EXT_SERVER           22         6                    341        1          .AP.SF     0          suspicious 
+ 46:43.8         5.459           TCP             10004_35             14320      EXT_SERVER           22         6                    359        1          .APRSF     0          suspicious 
+ 46:43.8         5.459           TCP             EXT_SERVER           22         10004_35             14320      5                    2302       1          .AP.S.     0          suspicious 
+ 45:09.6         123.245         TCP             10004_35             28726      EXT_SERVER           22         5                    289        1          .APRS.     0          suspicious 
+ 45:09.6         123.245         TCP             EXT_SERVER           22         10004_35             28726      9                    2510       1          .AP.SF     0          suspicious 
+ 47:24.2         8.105           TCP             EXT_SERVER           22         10066_254            26766      7                    1438       1          .AP.SF     0          suspicious 
+ 47:24.2         8.105           TCP             10066_254            26766      EXT_SERVER           22         9                    509        1          .APRSF     0          suspicious 
+ 47:37.3         0               TCP             10067_58             58027      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 47:37.3         0               TCP             EXT_SERVER           23         10067_58             58027      1                    40         1          .A.R..     0          suspicious 
+ 47:36.5         6.817           TCP             10004_35             37514      EXT_SERVER           22         7                    381        1          .APRS.     0          suspicious 
+ 47:36.5         6.817           TCP             EXT_SERVER           22         10004_35             37514      5                    1285       1          .AP.S.     0          suspicious 
+ 48:08.4         0.981           TCP             10068_180            4226       EXT_SERVER           445        3                    144        1          ....S.     0          suspicious 
+ 48:08.4         0.981           TCP             EXT_SERVER           445        10068_180            4226       3                    120        1          .A.R..     0          suspicious 
+ 48:15.7         0               TCP             EXT_SERVER           3306       10069_152            36292      1                    40         1          .A.R..     0          suspicious 
+ 48:15.7         0               TCP             10069_152            36292      EXT_SERVER           3306       1                    46         1          ....S.     0          suspicious 
+ 45:31.6         1.051           TCP             10070_111            8049       EXT_SERVER           22         6                    341        1          .AP.SF     0          suspicious 
+ 45:31.6         1.051           TCP             EXT_SERVER           22         10070_111            8049       5                    1285       1          .AP.SF     0          suspicious 
+ 48:45.5         0               TCP             10071_129            33530      EXT_SERVER           5093       1                    46         1          ....S.     0          suspicious 
+ 48:45.5         0               TCP             EXT_SERVER           5093       10071_129            33530      1                    40         1          .A.R..     0          suspicious 
+ 49:07.3         10.874          TCP             10004_35             62175      EXT_SERVER           22         5                    301        1          .APRSF     0          suspicious 
+ 49:07.3         10.874          TCP             EXT_SERVER           22         10004_35             62175      8                    1461       1          .AP.SF     0          suspicious 
+ 49:20.0         0.058           TCP             10072_182            60232      EXT_SERVER           22         2                    92         1          ...RS.     0          suspicious 
+ 49:20.0         0.058           TCP             EXT_SERVER           22         10072_182            60232      1                    44         1          .A..S.     0          suspicious 
+ 49:40.8         0               TCP             10073_107            58558      EXT_SERVER           9200       1                    46         1          ....S.     0          suspicious 
+ 49:40.8         0               TCP             EXT_SERVER           9200       10073_107            58558      1                    40         1          .A.R..     0          suspicious 
+ 48:21.0         121.48          TCP             10004_35             32906      EXT_SERVER           22         5                    291        1          .APRS.     0          suspicious 
+ 50:32.8         0               TCP             10074_236            22117      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 50:32.8         0               TCP             EXT_SERVER           23         10074_236            22117      1                    40         1          .A.R..     0          suspicious 
+ 49:56.0         120.927         TCP             10004_35             59817      EXT_SERVER           22         5                    277        1          .APRSF     0          suspicious 
+ 51:56.3         0               TCP             10075_122            40715      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 51:56.3         0               TCP             EXT_SERVER           23         10075_122            40715      1                    40         1          .A.R..     0          suspicious 
+ 52:06.8         0.001           TCP             10076_51             38841      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 52:06.8         0.001           TCP             EXT_SERVER           5358       10076_51             38841      1                    40         1          .A.R..     0          suspicious 
+ 52:16.2         8.436           TCP             10004_35             24339      EXT_SERVER           22         4                    255        1          .APRSF     0          suspicious 
+ 52:16.2         8.436           TCP             EXT_SERVER           22         10004_35             24339      7                    2422       1          .AP.S.     0          suspicious 
+ 50:42.1         127.847         TCP             10004_35             47313      EXT_SERVER           22         7                    381        1          .APRSF     0          suspicious 
+ 53:53.9         0               TCP             10077_237            12455      EXT_SERVER           3306       1                    46         1          ....S.     0          suspicious 
+ 53:53.9         0               TCP             EXT_SERVER           3306       10077_237            12455      1                    40         1          .A.R..     0          suspicious 
+ 53:54.4         0               TCP             10078_129            46983      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 53:54.4         0               TCP             EXT_SERVER           23         10078_129            46983      1                    40         1          .A.R..     0          suspicious 
+ 53:53.3         6.864           TCP             10004_35             51835      EXT_SERVER           22         8                    1625       1          .APRSF     0          suspicious 
+ 54:35.1         0.001           TCP             10079_235            57841      EXT_SERVER           7547       1                    46         1          ....S.     0          suspicious 
+ 54:35.1         0.001           TCP             EXT_SERVER           7547       10079_235            57841      1                    40         1          .A.R..     0          suspicious 
+ 54:39.9         9.428           TCP             10004_35             31583      EXT_SERVER           22         3                    166        1          ...RS.     0          suspicious 
+ 54:39.9         9.428           TCP             EXT_SERVER           22         10004_35             31583      5                    300        1          .A..S.     0          suspicious 
+ 55:18.7         0.31            TCP             EXT_SERVER           22         10001_123            4688       1                    48         1          .A..S.     0          suspicious 
+ 55:18.7         0.31            TCP             10001_123            4688       EXT_SERVER           22         2                    94         1          ...RS.     0          suspicious 
+ 55:24.0         6.909           TCP             10004_35             34320      EXT_SERVER           22         5                    280        1          .APRSF     0          suspicious 
+ 55:24.0         6.909           TCP             EXT_SERVER           22         10004_35             34320      6                    413        1          .AP.S.     0          suspicious 
+ 55:32.9         0               TCP             10080_88             37360      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 55:32.9         0               TCP             EXT_SERVER           23         10080_88             37360      1                    40         1          .A.R..     0          suspicious 
+ 55:51.9         0.025           TCP             10081_11             59432      EXT_SERVER           3386       2                    92         1          ...RS.     0          suspicious 
+ 55:51.9         0.025           TCP             EXT_SERVER           3386       10081_11             59432      1                    40         1          .A.R..     0          suspicious 
+ 51:28.2         89.961          TCP             10004_35             34933      EXT_SERVER           22         6                    983        1          .AP.SF     0          suspicious 
+ 54:44.9         86.657          TCP             10004_35             21830      EXT_SERVER           22         8                    1347       1          .APRSF     0          suspicious 
+ 54:44.9         86.657          TCP             EXT_SERVER           22         10004_35             21830      9                    4293       1          .AP.SF     0          suspicious 
+ 56:33.3         0               TCP             EXT_SERVER           23         10082_175            57242      1                    40         1          .A.R..     0          suspicious 
+ 56:33.3         0               TCP             10082_175            57242      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 54:23.4         0               UDP             10025_123            5080       EXT_SERVER           5060       1                    438        1          ......     0          suspicious 
+ 54:23.4         0               ICMP            EXT_SERVER           0          10025_123            3.3        1                    466        1          ......     0          suspicious 
+ 57:51.4         0               TCP             10083_50             53         EXT_SERVER           53         1                    46         1          ....S.     0          suspicious 
+ 57:51.4         0               TCP             EXT_SERVER           53         10083_50             53         1                    40         1          .A.R..     0          suspicious 
+ 56:06.3         120.922         TCP             10004_35             24557      EXT_SERVER           22         5                    277        1          .APRSF     0          suspicious 
+ 58:18.5         0               TCP             10084_120            34592      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 58:18.5         0               TCP             EXT_SERVER           23         10084_120            34592      1                    40         1          .A.R..     0          suspicious 
+ 56:50.1         123.447         TCP             10004_35             23856      EXT_SERVER           22         8                    455        1          .APRSF     0          suspicious 
+ 58:55.7         0.027           TCP             10081_11             59432      EXT_SERVER           3394       2                    92         1          ...RS.     0          suspicious 
+ 58:55.7         0.027           TCP             EXT_SERVER           3394       10081_11             59432      1                    40         1          .A.R..     0          suspicious 
+ 59:56.0         0               TCP             EXT_SERVER           2323       10085_68             26901      1                    40         1          .A.R..     0          suspicious 
+ 59:56.0         0               TCP             10085_68             26901      EXT_SERVER           2323       1                    46         1          ....S.     0          suspicious 
+ 00:33.9         0               TCP             10060_92             16308      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 00:33.9         0               TCP             EXT_SERVER           23         10060_92             16308      1                    40         1          .A.R..     0          suspicious 
+ 00:34.0         0               TCP             10060_92             16308      EXT_SERVER           2323       1                    46         1          ....S.     0          suspicious 
+ 00:34.0         0               TCP             EXT_SERVER           2323       10060_92             16308      1                    40         1          .A.R..     0          suspicious 
+ 00:28.4         6.417           TCP             10004_35             22897      EXT_SERVER           22         7                    1029       1          .APRSF     0          suspicious 
+ 00:28.4         6.417           TCP             EXT_SERVER           22         10004_35             22897      9                    4421       1          .AP.SF     0          suspicious 
+ 59:00.1         121.911         TCP             10004_35             62594      EXT_SERVER           22         8                    433        1          .APRSF     0          suspicious 
+ 59:00.1         121.911         TCP             EXT_SERVER           22         10004_35             62594      8                    1485       1          .AP.SF     0          suspicious 
+ 01:24.2         0               TCP             EXT_SERVER           5555       10086_189            42533      1                    40         1          .A.R..     0          suspicious 
+ 01:24.2         0               TCP             10086_189            42533      EXT_SERVER           5555       1                    46         1          ....S.     0          suspicious 
+ 01:18.6         6.898           TCP             10004_35             29033      EXT_SERVER           22         8                    435        1          .APRSF     0          suspicious 
+ 01:18.6         6.898           TCP             EXT_SERVER           22         10004_35             29033      9                    2550       1          .AP.S.     0          suspicious 
+ 01:31.2         0               TCP             10087_19             52066      EXT_SERVER           5353       1                    46         1          ....S.     0          suspicious 
+ 01:31.2         0               TCP             EXT_SERVER           5353       10087_19             52066      1                    40         1          .A.R..     0          suspicious 
+ 59:45.1         122.834         TCP             10004_35             15218      EXT_SERVER           22         5                    262        1          .A.RS.     0          suspicious 
+ 59:45.1         122.834         TCP             EXT_SERVER           22         10004_35             15218      6                    369        1          .AP.SF     0          suspicious 
+ 01:13.6         33.466          TCP             10004_35             36548      EXT_SERVER           22         4                    226        1          ...RS.     0          suspicious 
+ 01:13.6         33.466          TCP             EXT_SERVER           22         10004_35             36548      8                    480        1          .A..S.     0          suspicious 
+ 01:54.0         0               TCP             10088_202            54727      EXT_SERVER           7547       1                    46         1          ....S.     0          suspicious 
+ 01:54.0         0               TCP             EXT_SERVER           7547       10088_202            54727      1                    40         1          .A.R..     0          suspicious 
+ 02:09.2         0               TCP             10089_31             60919      EXT_SERVER           7547       1                    46         1          ....S.     0          suspicious 
+ 02:09.2         0               TCP             EXT_SERVER           7547       10089_31             60919      1                    40         1          .A.R..     0          suspicious 
+ 58:16.4         71.486          TCP             10004_35             10280      EXT_SERVER           22         6                    983        1          .AP.SF     0          suspicious 
+ 57:33.8         121.458         TCP             10004_35             22445      EXT_SERVER           22         4                    239        1          .AP.SF     0          suspicious 
+ 02:40.8         8.079           TCP             10004_35             36550      EXT_SERVER           22         5                    277        1          .APRSF     0          suspicious 
+ 02:40.8         8.079           TCP             EXT_SERVER           22         10004_35             36550      6                    393        1          .AP.S.     0          suspicious 
+ 03:10.6         0               TCP             EXT_SERVER           23         10090_207            55102      1                    40         1          .A.R..     0          suspicious 
+ 03:10.6         0               TCP             10090_207            55102      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 03:27.4         6.347           TCP             10004_35             39155      EXT_SERVER           22         5                    277        1          .APRSF     0          suspicious 
+ 03:27.4         6.347           TCP             EXT_SERVER           22         10004_35             39155      6                    2366       1          .AP.S.     0          suspicious 
+ 04:07.5         6.893           TCP             10004_35             33798      EXT_SERVER           22         6                    329        1          .APRS.     0          suspicious 
+ 04:07.5         6.893           TCP             EXT_SERVER           22         10004_35             33798      5                    1285       1          .AP.S.     0          suspicious 
+ 04:50.3         13.131          TCP             10004_35             32247      EXT_SERVER           22         6                    329        1          .APRSF     0          suspicious 
+ 04:50.3         13.131          TCP             EXT_SERVER           22         10004_35             32247      8                    3425       1          .AP.S.     0          suspicious 
+ 05:09.8         0               TCP             10091_22             20429      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 05:09.8         0               TCP             EXT_SERVER           5358       10091_22             20429      1                    40         1          .A.R..     0          suspicious 
+ 05:19.0         0               TCP             10092_194            47114      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 05:19.0         0               TCP             EXT_SERVER           23         10092_194            47114      1                    40         1          .A.R..     0          suspicious 
+ 05:40.9         6.453           TCP             10004_35             51549      EXT_SERVER           22         6                    359        1          .APRSF     0          suspicious 
+ 05:40.9         6.453           TCP             EXT_SERVER           22         10004_35             51549      6                    2362       1          .AP.S.     0          suspicious 
+ 05:56.3         0               TCP             10093_191            37891      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 05:56.3         0               TCP             EXT_SERVER           23         10093_191            37891      1                    40         1          .A.R..     0          suspicious 
+ 05:57.0         0               TCP             10094_164            35264      EXT_SERVER           3306       1                    46         1          ....S.     0          suspicious 
+ 05:57.0         0               TCP             EXT_SERVER           3306       10094_164            35264      1                    40         1          .A.R..     0          suspicious 
+ 03:11.0         0               UDP             10095_221            60469      EXT_SERVER           47808      1                    63         1          ......     0          suspicious 
+ 03:11.0         0               ICMP            EXT_SERVER           0          10095_221            3.3        1                    91         1          ......     0          suspicious 
+ 06:29.3         11.946          TCP             10004_35             14238      EXT_SERVER           22         6                    314        1          .A.RSF     0          suspicious 
+ 06:29.3         11.946          TCP             EXT_SERVER           22         10004_35             14238      4                    281        1          .AP.S.     0          suspicious 
+ 06:44.5         0               TCP             10096_213            50447      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 06:44.5         0               TCP             EXT_SERVER           5358       10096_213            50447      1                    40         1          .A.R..     0          suspicious 
+ 07:43.4         101.474         TCP             EXT_SERVER           80         10097_154            15657      6                    823        1          .APRSF     0          unknown   
+ 07:43.4         101.474         TCP             10097_154            15657      EXT_SERVER           80         6                    383        1          .AP.SF     0          unknown   
+ 09:36.0         0               TCP             10098_166            9270       EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 09:36.0         0               TCP             EXT_SERVER           23         10098_166            9270       1                    40         1          .A.R..     0          suspicious 
+ 06:57.2         0               UDP             10099_127            5081       EXT_SERVER           5060       1                    439        1          ......     0          suspicious 
+ 06:57.2         0               ICMP            EXT_SERVER           0          10099_127            3.3        1                    467        1          ......     0          suspicious 
+ 10:12.4         9.839           TCP             10004_35             34592      EXT_SERVER           22         8                    1359       1          .APRSF     0          suspicious 
+ 10:12.4         9.839           TCP             EXT_SERVER           22         10004_35             34592      9                    3378       1          .AP.S.     0          suspicious 
+ 10:23.6         120.485         TCP             10004_35             33905      EXT_SERVER           22         5                    931        1          .AP.S.     0          suspicious 
+ 08:01.9         145.723         TCP             10004_35             33239      EXT_SERVER           22         6                    328        1          .A.RS.     0          suspicious 
+ 08:01.9         145.723         TCP             EXT_SERVER           22         10004_35             33239      8                    563        1          .AP.SF     0          suspicious 
+ 10:36.5         0               TCP             10100_221            47211      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 10:36.5         0               TCP             EXT_SERVER           23         10100_221            47211      1                    40         1          .A.R..     0          suspicious 
+ 10:43.6         1.015           TCP             10101_33             3737       EXT_SERVER           445        3                    144        1          ....S.     0          suspicious 
+ 10:43.6         1.015           TCP             EXT_SERVER           445        10101_33             3737       3                    120        1          .A.R..     0          suspicious 
+ 09:28.2         89.394          TCP             10004_35             29141      EXT_SERVER           22         8                    1081       1          .APRSF     0          suspicious 
+ 11:39.4         11.504          TCP             10004_35             37796      EXT_SERVER           22         6                    341        1          .APRS.     0          suspicious 
+ 11:39.4         11.504          TCP             EXT_SERVER           22         10004_35             37796      9                    4462       1          .AP.S.     0          suspicious 
+ 09:02.6         0               UDP             10102_193            5427       EXT_SERVER           5060       1                    443        1          ......     0          suspicious 
+ 09:02.6         0               ICMP            EXT_SERVER           0          10102_193            3.3        1                    471        1          ......     0          suspicious 
+ 07:17.3         121.852         TCP             10004_35             22116      EXT_SERVER           22         7                    671        1          .AP.SF     0          suspicious 
+ 12:24.3         5.888           TCP             10004_35             43123      EXT_SERVER           22         5                    316        1          .APRS.     0          suspicious 
+ 12:24.3         5.888           TCP             EXT_SERVER           22         10004_35             43123      8                    2437       1          .AP.SF     0          suspicious 
+ 10:56.2         125.755         TCP             10004_35             30333      EXT_SERVER           22         6                    314        1          .A.RSF     0          suspicious 
+ 10:56.2         125.755         TCP             EXT_SERVER           22         10004_35             30333      8                    537        1          .AP.SF     0          suspicious 
+ 13:24.1         0.021           TCP             10081_11             59432      EXT_SERVER           3390       2                    92         1          ...RS.     0          suspicious 
+ 13:24.1         0.021           TCP             EXT_SERVER           3390       10081_11             59432      1                    40         1          .A.R..     0          suspicious 
+ 13:32.0         0               TCP             10103_238            30631      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 13:32.0         0               TCP             EXT_SERVER           23         10103_238            30631      1                    40         1          .A.R..     0          suspicious 
+ 11:19.9         0.016           UDP             10014_199            123        EXT_SERVER           55004      1                    76         1          ......     0          suspicious 
+ 11:19.9         0.016           UDP             EXT_SERVER           55004      10014_199            123        1                    76         1          ......     0          suspicious 
+ 14:41.9         0               TCP             10104_1              38841      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 14:41.9         0               TCP             EXT_SERVER           5358       10104_1              38841      1                    40         1          .A.R..     0          suspicious 
+ 14:56.8         0               TCP             10105_52             4063       EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 14:56.8         0               TCP             EXT_SERVER           23         10105_52             4063       1                    40         1          .A.R..     0          suspicious 
+ 14:57.3         0.011           TCP             10106_26             52401      EXT_SERVER           23         2                    92         1          ...RS.     0          suspicious 
+ 14:57.3         0.011           TCP             EXT_SERVER           23         10106_26             52401      1                    40         1          .A.R..     0          suspicious 
+ 14:55.8         123.911         TCP             10004_35             13129      EXT_SERVER           22         5                    276        1          .A..S.     0          suspicious 
+ 14:55.8         123.911         TCP             EXT_SERVER           22         10004_35             13129      6                    385        1          .AP.SF     0          suspicious 
+ 13:08.8         126.16          TCP             10004_35             53718      EXT_SERVER           22         6                    974        1          .APRSF     0          suspicious 
+ 17:12.1         30.997          TCP             10032_241            34528      EXT_SERVER           22         1                    46         1          ....S.     0          suspicious 
+ 17:12.1         30.997          TCP             EXT_SERVER           22         10032_241            34528      6                    264        1          .A..S.     0          suspicious 
+ 13:51.6         123.152         TCP             10004_35             60335      EXT_SERVER           22         5                    262        1          .A.RS.     0          suspicious 
+ 13:51.6         123.152         TCP             EXT_SERVER           22         10004_35             60335      6                    361        1          .AP.SF     0          suspicious 
+ 17:28.4         30.998          TCP             10028_233            7257       EXT_SERVER           80         1                    46         1          ....S.     0          unknown   
+ 17:28.4         30.998          TCP             EXT_SERVER           80         10028_233            7257       6                    264        1          .A..S.     0          unknown   
+ 17:28.4         30.998          TCP             10028_233            7839       EXT_SERVER           22         1                    46         1          ....S.     0          suspicious 
+ 17:28.4         30.998          TCP             EXT_SERVER           22         10028_233            7839       6                    264        1          .A..S.     0          suspicious 
+ 16:03.3         0               TCP             10107_191            40406      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 16:03.3         0               TCP             EXT_SERVER           23         10107_191            40406      1                    40         1          .A.R..     0          suspicious 
+ 16:03.0         7.554           TCP             10004_35             61440      EXT_SERVER           22         6                    359        1          .APRSF     0          suspicious 
+ 16:03.0         7.554           TCP             EXT_SERVER           22         10004_35             61440      7                    3423       1          .AP.SF     0          suspicious 
+ 13:33.1         0               UDP             10108_168            34463      EXT_SERVER           123        1                    46         1          ......     0          suspicious 
+ 13:33.2         0               ICMP            EXT_SERVER           0          10108_168            3.3        1                    64         1          ......     0          suspicious 
+ 14:35.9         121.9           TCP             10004_35             64110      EXT_SERVER           22         6                    322        1          .A.RSF     0          suspicious 
+ 14:35.9         121.9           TCP             EXT_SERVER           22         10004_35             64110      6                    401        1          .AP.SF     0          suspicious 
+ 16:54.9         0               TCP             EXT_SERVER           5358       10109_224            45229      1                    40         1          .A.R..     0          suspicious 
+ 16:54.9         0               TCP             10109_224            45229      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 18:45.9         30.999          TCP             10004_35             11697      EXT_SERVER           22         1                    60         1          ....S.     0          suspicious 
+ 18:45.9         30.999          TCP             EXT_SERVER           22         10004_35             11697      6                    360        1          .A..S.     0          suspicious 
+ 15:19.6         120.472         TCP             10004_35             63685      EXT_SERVER           22         6                    335        1          .APRSF     0          suspicious 
+ 18:01.6         0               TCP             EXT_SERVER           23         10110_122            13014      1                    40         1          .A.R..     0          suspicious 
+ 18:01.6         0               TCP             10110_122            13014      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 18:20.7         32.147          TCP             10004_35             41226      EXT_SERVER           22         7                    381        1          .APRSF     0          suspicious 
+ 18:20.7         32.147          TCP             EXT_SERVER           22         10004_35             41226      7                    1421       1          .AP.S.     0          suspicious 
+ 17:30.2         121.801         TCP             10004_35             62904      EXT_SERVER           22         5                    277        1          .APRS.     0          suspicious 
+ 17:30.2         121.801         TCP             EXT_SERVER           22         10004_35             62904      6                    1337       1          .AP.SF     0          suspicious 
+ 20:22.2         5.916           TCP             10004_35             37648      EXT_SERVER           22         4                    261        1          .APRS.     0          suspicious 
+ 20:22.2         5.916           TCP             EXT_SERVER           22         10004_35             37648      6                    2354       1          .AP.SF     0          suspicious 
+ 18:57.0         120.456         TCP             10004_35             55506      EXT_SERVER           22         5                    283        1          .APRSF     0          suspicious 
+ 21:23.6         0.301           TCP             EXT_SERVER           22         10001_123            4964       1                    48         1          .A..S.     0          suspicious 
+ 21:23.6         0.301           TCP             10001_123            4964       EXT_SERVER           22         2                    94         1          ...RS.     0          suspicious 
+ 21:31.2         0               TCP             10111_226            3666       EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 21:31.2         0               TCP             EXT_SERVER           23         10111_226            3666       1                    40         1          .A.R..     0          suspicious 
+ 16:47.0         123.097         TCP             10004_35             10434      EXT_SERVER           22         7                    399        1          .AP.SF     0          suspicious 
+ 16:47.0         123.097         TCP             EXT_SERVER           22         10004_35             10434      8                    1489       1          .AP.SF     0          suspicious 
+ 21:49.7         9.36            TCP             10004_35             35966      EXT_SERVER           22         9                    2053       1          .APRSF     0          suspicious 
+ 22:02.2         0               TCP             10112_232            22755      EXT_SERVER           7547       1                    46         1          ....S.     0          suspicious 
+ 22:02.2         0               TCP             EXT_SERVER           7547       10112_232            22755      1                    40         1          .A.R..     0          suspicious 
+ 22:11.2         0               TCP             10113_226            7645       EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 22:11.2         0               TCP             EXT_SERVER           5358       10113_226            7645       1                    40         1          .A.R..     0          suspicious 
+ 22:25.9         0               TCP             10114_203            38661      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 22:25.9         0               TCP             EXT_SERVER           5358       10114_203            38661      1                    40         1          .A.R..     0          suspicious 
+ 22:36.0         2.935           TCP             EXT_SERVER           22         10001_123            1560       8                    2245       1          .AP.S.     0          suspicious 
+ 22:33.1         6.379           TCP             10004_35             31093      EXT_SERVER           22         7                    381        1          .APRSF     0          suspicious 
+ 22:33.1         6.379           TCP             EXT_SERVER           22         10004_35             31093      9                    4457       1          .AP.S.     0          suspicious 
+ 21:06.5         120.882         TCP             10004_35             42403      EXT_SERVER           22         7                    396        1          .APRSF     0          suspicious 
+ 19:39.6         67.047          TCP             10004_35             47285      EXT_SERVER           22         5                    376        1          .AP.SF     0          suspicious 
+ 23:59.6         9.12            TCP             10004_35             24503      EXT_SERVER           22         7                    659        1          .APRSF     0          suspicious 
+ 23:59.6         9.12            TCP             EXT_SERVER           22         10004_35             24503      7                    2430       1          .AP.S.     0          suspicious 
+ 24:23.4         0               TCP             10115_147            9925       EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 24:23.4         0               TCP             EXT_SERVER           23         10115_147            9925       1                    40         1          .A.R..     0          suspicious 
+ 21:40.2         0.001           UDP             10116_230            53         EXT_SERVER           56647      1                    129        1          ......     0          suspicious 
+ 21:40.2         0.001           UDP             EXT_SERVER           56647      10116_230            53         1                    68         1          ......     0          suspicious 
+ 21:40.2         0               UDP             10116_230            53         EXT_SERVER           55530      1                    250        1          ......     0          suspicious 
+ 21:40.2         0               UDP             EXT_SERVER           55530      10116_230            53         1                    68         1          ......     0          suspicious 
+ 21:40.2         5.11            TCP             10117_200            443        EXT_SERVER           53610      9                    5455       1          .AP.SF     0          suspicious 
+ 22:06.3         0               ICMP            10118_90             0          EXT_SERVER           8          1                    46         1          ......     0          suspicious 
+ 22:06.3         0               ICMP            EXT_SERVER           0          10118_90             0          1                    32         1          ......     0          suspicious 
+ 23:16.6         120.922         TCP             10004_35             31174      EXT_SERVER           22         4                    225        1          .APRS.     0          suspicious 
+ 25:52.0         0               TCP             EXT_SERVER           23         10119_237            18313      1                    40         1          .A.R..     0          suspicious 
+ 25:52.0         0               TCP             10119_237            18313      EXT_SERVER           23         1                    46         1          ....S.     0          suspicious 
+ 25:58.3         0               TCP             10120_156            58130      EXT_SERVER           3306       1                    46         1          ....S.     0          suspicious 
+ 25:58.3         0               TCP             EXT_SERVER           3306       10120_156            58130      1                    40         1          .A.R..     0          suspicious 
+ 23:38.5         0               UDP             10121_62             50807      EXT_SERVER           1900       1                    122        1          ......     0          suspicious 
+ 23:38.5         0               ICMP            EXT_SERVER           0          10121_62             3.3        1                    150        1          ......     0          suspicious 
+ 26:42.1         0               TCP             10122_113            42138      EXT_SERVER           5351       1                    46         1          ....S.     0          suspicious 
+ 26:42.1         0               TCP             EXT_SERVER           5351       10122_113            42138      1                    40         1          .A.R..     0          suspicious 
+ 24:43.6         120.901         TCP             10004_35             25906      EXT_SERVER           22         4                    858        1          .APRS.     0          suspicious 
+ 24:43.6         120.901         TCP             EXT_SERVER           22         10004_35             25906      5                    374        1          .AP.SF     0          suspicious 
+ 26:59.4         0               TCP             10123_83             48981      EXT_SERVER           7547       1                    46         1          ....S.     0          suspicious 
+ 26:59.4         0               TCP             EXT_SERVER           7547       10123_83             48981      1                    40         1          .A.R..     0          suspicious 
+ 26:53.4         16.939          TCP             10004_35             11191      EXT_SERVER           22         8                    705        1          .APRS.     0          suspicious 
+ 25:26.3         120.882         TCP             10004_35             17427      EXT_SERVER           22         5                    277        1          .APRS.     0          suspicious 
+ 27:49.0         0.026           TCP             10081_11             59432      EXT_SERVER           3397       2                    92         1          ...RS.     0          suspicious 
+ 27:49.0         0.026           TCP             EXT_SERVER           3397       10081_11             59432      1                    40         1          .A.R..     0          suspicious 
+ 28:55.5         0               TCP             EXT_SERVER           5358       10124_232            37541      1                    40         1          .A.R..     0          suspicious 
+ 28:55.5         0               TCP             10124_232            37541      EXT_SERVER           5358       1                    46         1          ....S.     0          suspicious 
+ 30:49.7         30.998          TCP             10125_244            32205      EXT_SERVER           22         1                    46         1          ....S.     0          suspicious 
+ 30:49.7         30.998          TCP             EXT_SERVER           22         10125_244            32205      6                    264        1          .A..S.     0          suspicious 
+ 29:32.2         0               TCP             10126_144            50012      EXT_SERVER           8080       1                    46         1          ....S.     0          suspicious 
+ 29:32.2         0               TCP             EXT_SERVER           8080       10126_144            50012      1                    40         1          .A.R..     0          suspicious 
+ 27:39.2         120.865         TCP             10004_35             14358      EXT_SERVER           22         7                    653        1          .APRSF     0          suspicious 
+ 27:39.2         120.865         TCP             EXT_SERVER           22         10004_35             14358      9                    2517       1          .AP.SF     0          suspicious 
